@@ -295,7 +295,7 @@ interface Author {
         bio: 'Senior React developer with a passion for clean, efficient code and modern web technologies.',
         avatarUrl: '/picture/3.jpg',
       },
-      coverImage: '/picture/r.png',
+      coverImage: '/picture/r.jpeg',
     },
     {
       id: '4',
