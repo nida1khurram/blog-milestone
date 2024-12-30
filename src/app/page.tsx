@@ -1,3 +1,4 @@
+"use client"
 import FeatureSection from '@/components/FeatureSection'
 import BlogSection from '@/components/BlogSection'
 import Image from 'next/image'

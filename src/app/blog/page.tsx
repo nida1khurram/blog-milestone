@@ -1,3 +1,4 @@
+
 import BlogSection from '@/components/BlogSection'
 
 const dummyPosts = [
