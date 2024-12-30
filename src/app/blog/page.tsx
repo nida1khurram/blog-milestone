@@ -23,7 +23,7 @@ const dummyPosts = [
     excerpt: 'Unlock the full potential of React with hooks and functional components.',
     date: 'June 10, 2023',
     author: 'Bob Johnson',
-    coverImage: '/picture/r.png',
+    coverImage: '/picture/r.jpeg',
   },
   {
     id: '4',
