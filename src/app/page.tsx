@@ -40,7 +40,7 @@ className='w-[600px] h-[300px] ml-[450px]'/>
         </div>
       </div>
       <FeatureSection/>
-      <BlogSection posts={dummyPosts} />
+      <BlogSection posts={dummyPosts} /> 
     </div>
   )
 }
